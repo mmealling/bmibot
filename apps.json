@@ -1,0 +1,8 @@
+{
+  "api": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "pipefish/api",
+    "environments": ["production"],
+  }
+}

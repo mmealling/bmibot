@@ -1,2 +1,4 @@
-bmibot
-======
+hubot
+=====
+
+The home of BMIBot
